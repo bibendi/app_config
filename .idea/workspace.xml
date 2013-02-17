@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" name="Default" comment="" />
+    <list default="true" id="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/app_config.rb" afterPath="$PROJECT_DIR$/lib/app_config.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="conf.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/conf.gemspec" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361086958437" ignored="false" />
-    <file path="/a.dummy" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361086706058" ignored="false" />
+    <file path="/a.dummy" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361100502846" ignored="false" />
     <file path="/system_params.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361091015446" ignored="false" />
-    <file path="/conf.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361091019298" ignored="false" />
+    <file path="/conf.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361100069076" ignored="false" />
     <file path="/app_config.gemspec" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361087435592" ignored="false" />
-    <file path="/Gemfile" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361088751069" ignored="false" />
+    <file path="/Gemfile" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361091551282" ignored="false" />
     <file path="/README.md" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361087485762" ignored="false" />
-    <file path="$PROJECT_DIR$/../pcrb/Gemfile" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361088751069" ignored="false" />
+    <file path="$PROJECT_DIR$/../pcrb/Gemfile" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361091560673" ignored="false" />
     <file path="$PROJECT_DIR$/../pcrb/vendor/plugins/core/init.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361090026620" ignored="false" />
+    <file path="/repo.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361099344425" ignored="false" />
+    <file path="/railtie.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361100393422" ignored="false" />
+    <file path="/Dummy.txt" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361100636148" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +45,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app_config.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app_config.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/app_config.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="15" selection-start="992" selection-end="992" vertical-scroll-proportion="0.61538464">
+            <state line="4" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="repo.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/app_config/repo.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="26" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="railtie.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/app_config/railtie.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="14" selection-start="265" selection-end="265" vertical-scroll-proportion="0.16826923">
               <folding />
             </state>
           </provider>
@@ -63,6 +88,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -74,7 +107,9 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/lib/app_config/system_params.rb" />
+        <option value="$PROJECT_DIR$/lib/app_config/repo.rb" />
         <option value="$PROJECT_DIR$/lib/app_config.rb" />
+        <option value="$PROJECT_DIR$/lib/app_config/railtie.rb" />
       </list>
     </option>
   </component>
@@ -84,7 +119,7 @@
     <option name="width" value="1317" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -184,7 +219,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -370,13 +409,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/system_param.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="31" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/app_config/system_params.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="16" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
@@ -384,9 +416,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/app_config/repo.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/app_config.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="15" selection-start="992" selection-end="992" vertical-scroll-proportion="0.61538464">
+        <state line="4" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/system_param.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="31" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/app_config/railtie.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="14" selection-start="265" selection-end="265" vertical-scroll-proportion="0.16826923">
           <folding />
         </state>
       </provider>
