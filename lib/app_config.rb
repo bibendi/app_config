@@ -1,5 +1,5 @@
-require "conf/version"
-require "conf/system_params"
+require "app_config/version"
+require "app_config/system_params"
 
 class AppConfig
 
