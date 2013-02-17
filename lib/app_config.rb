@@ -43,7 +43,7 @@ class AppConfig
     if @params.key?(param)
       @params[param]
     else
-      Conf::SystemParams[param]
+      AppConfig::SystemParams[param]
     end
   end
 

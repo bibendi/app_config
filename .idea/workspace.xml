@@ -6,12 +6,13 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/conf.gemspec" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361086958437" ignored="false" />
     <file path="/a.dummy" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361086706058" ignored="false" />
-    <file path="/system_params.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361086796127" ignored="false" />
-    <file path="/conf.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361089892093" ignored="false" />
+    <file path="/system_params.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361091015446" ignored="false" />
+    <file path="/conf.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361091019298" ignored="false" />
     <file path="/app_config.gemspec" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361087435592" ignored="false" />
     <file path="/Gemfile" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361088751069" ignored="false" />
     <file path="/README.md" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361087485762" ignored="false" />
     <file path="$PROJECT_DIR$/../pcrb/Gemfile" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361088751069" ignored="false" />
+    <file path="$PROJECT_DIR$/../pcrb/vendor/plugins/core/init.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361090026620" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
       <file leaf-file-name="app_config.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/app_config.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="19" selection-start="101" selection-end="101" vertical-scroll-proportion="0.120192304">
+            <state line="45" column="15" selection-start="992" selection-end="992" vertical-scroll-proportion="0.61538464">
               <folding />
             </state>
           </provider>
@@ -49,7 +50,7 @@
       <file leaf-file-name="system_params.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/app_config/system_params.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="11" selection-start="1185" selection-end="1185" vertical-scroll-proportion="0.0">
+            <state line="1" column="16" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -72,6 +73,7 @@
         <option value="$PROJECT_DIR$/app_config.gemspec" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/lib/app_config/system_params.rb" />
         <option value="$PROJECT_DIR$/lib/app_config.rb" />
       </list>
     </option>
@@ -333,13 +335,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/app_config/system_params.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="11" selection-start="1185" selection-end="1185" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app_config.gemspec">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="0" selection-start="776" selection-end="776" vertical-scroll-proportion="0.5048077">
@@ -382,9 +377,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/app_config/system_params.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="16" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/app_config.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="19" selection-start="101" selection-end="101" vertical-scroll-proportion="0.120192304">
+        <state line="45" column="15" selection-start="992" selection-end="992" vertical-scroll-proportion="0.61538464">
           <folding />
         </state>
       </provider>

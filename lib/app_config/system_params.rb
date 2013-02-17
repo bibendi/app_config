@@ -1,5 +1,5 @@
 # -*- encoding : utf-8 -*-
-module Conf
+module AppConfig
 
   class SystemParamsHash < HashWithIndifferentAccess
     attr_accessor :group_prefix
