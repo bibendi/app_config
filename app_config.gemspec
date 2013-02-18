@@ -17,5 +17,5 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ["lib"]
 
-  gem.add_runtime_dependency 'activerecord', '>= 3.0.19'
+  gem.add_runtime_dependency 'rails', '>= 3.0.19'
 end

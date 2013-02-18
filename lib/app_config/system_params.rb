@@ -1,7 +1,7 @@
 # -*- encoding : utf-8 -*-
 module AppConfig
 
-  class SystemParamsHash < HashWithIndifferentAccess
+  class SystemParamsHash < ActiveSupport::HashWithIndifferentAccess
     attr_accessor :group_prefix
 
     alias get_item []

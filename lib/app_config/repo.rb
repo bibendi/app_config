@@ -7,13 +7,9 @@ class AppConfig::Repo
   end
 
   def use_file!(file)
-    begin
-      hash = YAML::load(ERB.new(IO.read(file)).result)
-      @sections = hash.merge(@sections) { |_, old_val, new_val| (old_val || new_val).merge new_val }
-      @params.merge!(@sections['common'])
-    rescue => e
-      Rails.logger.error e
-    end
+    hash = YAML::load(ERB.new(IO.read(file)).result)
+    @sections = hash.merge(@sections) { |_, old_val, new_val| (old_val || new_val).merge new_val }
+    @params.merge!(@sections['common'])
   end
 
   def use_section!(section)

@@ -2,24 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/app_config/railtie.rb" afterPath="$PROJECT_DIR$/lib/app_config/engine.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/conf.iml" afterPath="$PROJECT_DIR$/.idea/conf.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app_config.gemspec" afterPath="$PROJECT_DIR$/app_config.gemspec" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/app_config.rb" afterPath="$PROJECT_DIR$/lib/app_config.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/app_config/repo.rb" afterPath="$PROJECT_DIR$/lib/app_config/repo.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/app_config/system_params.rb" afterPath="$PROJECT_DIR$/lib/app_config/system_params.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="conf.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/conf.gemspec" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361086958437" ignored="false" />
-    <file path="/a.dummy" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361100502846" ignored="false" />
+    <file path="/a.dummy" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361104725537" ignored="false" />
     <file path="/system_params.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361091015446" ignored="false" />
     <file path="/conf.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361100069076" ignored="false" />
-    <file path="/app_config.gemspec" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361087435592" ignored="false" />
-    <file path="/Gemfile" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361091551282" ignored="false" />
+    <file path="/app_config.gemspec" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361105664046" ignored="false" />
+    <file path="/Gemfile" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361101641241" ignored="false" />
     <file path="/README.md" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361087485762" ignored="false" />
-    <file path="$PROJECT_DIR$/../pcrb/Gemfile" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361091560673" ignored="false" />
-    <file path="$PROJECT_DIR$/../pcrb/vendor/plugins/core/init.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361090026620" ignored="false" />
-    <file path="/repo.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361099344425" ignored="false" />
-    <file path="/railtie.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361100393422" ignored="false" />
-    <file path="/Dummy.txt" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361100636148" ignored="false" />
+    <file path="$PROJECT_DIR$/../pcrb/Gemfile" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361105713646" ignored="false" />
+    <file path="$PROJECT_DIR$/../pcrb/vendor/plugins/core/init.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361101602705" ignored="false" />
+    <file path="/repo.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361106983383" ignored="false" />
+    <file path="/railtie.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361106427077" ignored="false" />
+    <file path="/Dummy.txt" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361101365888" ignored="false" />
+    <file path="$PROJECT_DIR$/../blocker/blocker.gemspec" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361105907809" ignored="false" />
+    <file path="/blocker.gemspec" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361105898520" ignored="false" />
+    <file path="$PROJECT_DIR$/../blocker/lib/blocker.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361106345207" ignored="false" />
+    <file path="/blocker.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361106343214" ignored="false" />
+    <file path="/app_config.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361107133570" ignored="false" />
+    <file path="/engine.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361105851339" ignored="false" />
+    <file path="$PROJECT_DIR$/../pcrb/Gemfile.lock" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361105938553" ignored="false" />
+    <file path="$USER_HOME$/.rvm/gems/ruby-1.9.3-p374/gems/thinking-sphinx-2.0.14/lib/thinking_sphinx/railtie.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361106477237" ignored="false" />
+    <file path="$USER_HOME$/.rvm/gems/ruby-1.9.3-p374/gems/thinking-sphinx-2.0.14/lib/thinking_sphinx.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361107058581" ignored="false" />
+    <file path="/thinking_sphinx.rb" changelist="55ecb569-2b01-4ab3-93c5-ada2c4a9ce06" time="1361106826168" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +62,7 @@
       <file leaf-file-name="app_config.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/app_config.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
+            <state line="1" column="22" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -57,16 +71,18 @@
       <file leaf-file-name="repo.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/app_config/repo.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="26" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="12" column="0" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1361107177983" expanded="true" signature="145:337" placeholder="begin ... end" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="railtie.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/app_config/railtie.rb">
+      <file leaf-file-name="engine.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/app_config/engine.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="14" selection-start="265" selection-end="265" vertical-scroll-proportion="0.16826923">
+            <state line="10" column="3" selection-start="159" selection-end="159" vertical-scroll-proportion="0.24038461">
               <folding />
             </state>
           </provider>
@@ -75,7 +91,25 @@
       <file leaf-file-name="system_params.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/app_config/system_params.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="16" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
+            <state line="3" column="51" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app_config.gemspec" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app_config.gemspec">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="49" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="version.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/app_config/version.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -103,13 +137,14 @@
         <option value="$PROJECT_DIR$/conf.gemspec" />
         <option value="$PROJECT_DIR$/app/models/system_param.rb" />
         <option value="$PROJECT_DIR$/lib/conf.rb" />
-        <option value="$PROJECT_DIR$/app_config.gemspec" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/lib/app_config/system_params.rb" />
         <option value="$PROJECT_DIR$/lib/app_config/repo.rb" />
-        <option value="$PROJECT_DIR$/lib/app_config.rb" />
         <option value="$PROJECT_DIR$/lib/app_config/railtie.rb" />
+        <option value="$PROJECT_DIR$/lib/app_config/system_params.rb" />
+        <option value="$PROJECT_DIR$/app_config.gemspec" />
+        <option value="$PROJECT_DIR$/lib/app_config.rb" />
+        <option value="$PROJECT_DIR$/lib/app_config/engine.rb" />
       </list>
     </option>
   </component>
@@ -374,20 +409,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app_config.gemspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="776" selection-end="776" vertical-scroll-proportion="0.5048077">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="47" selection-start="78" selection-end="78" vertical-scroll-proportion="0.048076924">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -409,24 +430,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/app_config/system_params.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="16" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/app_config/repo.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="26" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/app_config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="12" column="0" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1361107177983" expanded="true" signature="145:337" placeholder="begin ... end" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -437,9 +446,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/app_config/railtie.rb">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="14" selection-start="265" selection-end="265" vertical-scroll-proportion="0.16826923">
+        <state line="2" column="47" selection-start="78" selection-end="78" vertical-scroll-proportion="0.048076924">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p374/gems/activesupport-3.0.19/lib/active_support/hash_with_indifferent_access.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="8" selection-start="240" selection-end="240" vertical-scroll-proportion="0.17184943">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_config.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="49" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/app_config/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/app_config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="22" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/app_config/system_params.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="51" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/app_config/engine.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="3" selection-start="159" selection-end="159" vertical-scroll-proportion="0.24038461">
           <folding />
         </state>
       </provider>
